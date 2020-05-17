@@ -1,0 +1,9 @@
+h1 {
+    color: tomato;
+    text-align: center;
+    background-color: azure;
+    background-image: url('image1.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
